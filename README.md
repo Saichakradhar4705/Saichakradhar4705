@@ -30,14 +30,6 @@
 - ☁️ Cloud & Backend Systems  
 - 🤖 AI‑Powered Projects  
 
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saichakradhar4705&theme=onestar&no-frame=true"/>
-</p>
-
 ---
 
 ## ✨ Dev Quote
