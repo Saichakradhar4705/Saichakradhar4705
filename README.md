@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**Saichakradhar4705/Saichakradhar4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Hi, I’m Sai Chakradhar 👋
+🎓 Student | 💻 Full-Stack Developer | ☁️ Cloud & App Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/rock_73642"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://linkedin.com/in/Sai Chakradhar Kondeti"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://reddit.com/user/Mother-Reading783"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="45"/></a>
+  <a href="https://x.com/saikondeti4705"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="mailto:saichakradhar4705@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,cs,react,nextjs,nodejs,flutter,flask" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,supabase,docker,mysql,sqlite,git,github" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,canva,apache" />
+</p>
+
+---
+
+## 🚀 What I’m Working On
+- 🌐 Full‑Stack Web Applications  
+- 📱 Mobile App Development  
+- ☁️ Cloud & Backend Systems  
+- 🤖 AI‑Powered Projects  
+
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saichakradhar4705&theme=onestar&no-frame=true"/>
+</p>
+
+---
+
+## ✨ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Saichakradhar4705&icon=5&color=12"/>
+</p>
