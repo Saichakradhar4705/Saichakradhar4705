@@ -16,9 +16,9 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,cs,react,nextjs,nodejs,flutter,flask" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nodejs,flutter,flask" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,firebase,supabase,docker,mysql,sqlite,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,canva,apache" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ---
