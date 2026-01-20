@@ -6,7 +6,6 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/rock_73642"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
   <a href="https://linkedin.com/in/Sai Chakradhar Kondeti"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://reddit.com/user/Mother-Reading783"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="45"/></a>
   <a href="https://x.com/saikondeti4705"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
